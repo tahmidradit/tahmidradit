@@ -1,6 +1,6 @@
 - 👋 I’m @tahmidradit
 - 👀 I’m interested in Software Engineering and Software Development 
-- 🌱 I’m currently learning dotenet, React/Angular
+- 🌱 I’m currently learning dotnet, Angular
 - 💞️ I’m looking to collaborate on Own Project
 - 📫 How to reach me: mail me tahmidradit@yahoo.com
 
